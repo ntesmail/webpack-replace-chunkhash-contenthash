@@ -94,3 +94,6 @@ module.exports = {
 type: number , default to empty.
 
 the final js file chunkhash length.
+
+### `contributors`
+sweetyx[https://github.com/z827101859]

@@ -17,7 +17,7 @@
     "dependencies": {},
     "repository": {
       "type": "git",
-      "url": "https://github.com/z827101859/webpack-replace-chunkhash-contenthash"
+      "url": "https://github.com/ntesmail/webpack-replace-chunkhash-contenthash"
     },
     "keywords": [
       "webpack",
@@ -25,5 +25,5 @@
       "chunkhash",
       "contenthash"
     ],
-    "homepage": "https://github.com/z827101859/webpack-replace-chunkhash-contenthash"
+    "homepage": "https://github.com/ntesmail/webpack-replace-chunkhash-contenthash"
 }
