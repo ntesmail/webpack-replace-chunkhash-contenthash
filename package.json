@@ -1,0 +1,29 @@
+{
+    "name": "webpack-replace-chunkhash-contenthash",
+    "version": "0.0.1",
+    "description": "replace webpack output js files chunkhash with the final conent md5. ",
+    "main": "index.js",
+    "scripts": {
+        "build": "node build"
+    },
+    "author": "sweetyx",
+    "license": "ISC",
+    "devDependencies": {
+        "html-webpack-plugin": "^2.30.1",
+        "jquery": "^3.2.1",
+        "lodash": "^4.17.4",
+        "webpack": "^3.6.0"
+    },
+    "dependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/z827101859/webpack-replace-chunkhash-contenthash"
+    },
+    "keywords": [
+      "webpack",
+      "plugin",
+      "chunkhash",
+      "contenthash"
+    ],
+    "homepage": "https://github.com/z827101859/webpack-replace-chunkhash-contenthash"
+}
