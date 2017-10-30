@@ -1,6 +1,6 @@
 {
     "name": "webpack-replace-chunkhash-contenthash",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "replace webpack output js files chunkhash with the final conent md5. ",
     "main": "index.js",
     "scripts": {
